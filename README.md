@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracle-08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Listening to Spotify: 
-[![Spotify](https://novatorem-Oracle-08.vercel.app/api/spotify)](https://open.spotify.com/user/9xc6nzszso7tijhctteii0xn1)
+[![Spotify](https://novatorem-oracle08.vercel.app/api/spotify)](https://open.spotify.com/user/9xc6nzszso7tijhctteii0xn1)
 
 
 
